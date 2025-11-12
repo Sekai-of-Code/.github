@@ -6,10 +6,10 @@
 
 ## セカイのメンバー
 
-| [ボムチャン](https://github.com/Regulus0811) | [セジュン](https://github.com/kjsug1030) |
-| :---: | :---: |
-| <img src="https://avatars.githubusercontent.com/u/121006576?v=4" width=200px alt="ボムチャン"/> | <img src="https://avatars.githubusercontent.com/u/77241591?v=4" width=200px alt="セジュン"/> |
-| バックエンド | フロントエンド |
+| [ボムチャン](https://github.com/Regulus0811) | [セジュン](https://github.com/kjsug1030) | [ユミン](https://github.com/yuminn-k) | [ソヨン](https://github.com/dlatth) |
+| :---: | :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/121006576?v=4" width=200px alt="ボムチャン"/> | <img src="https://avatars.githubusercontent.com/u/77241591?v=4" width=200px alt="セジュン"/> | <img src="https://avatars.githubusercontent.com/u/55650732?v=4" width=200px alt="ユミン"/> | <img src="https://avatars.githubusercontent.com/u/156628006?v=4" width=200px alt="ソヨン"/> |
+| バックエンド | フロントエンド | インフラ | フロントエンド |
 
 <img src="https://storage.sekai.best/sekai-jp-assets/stamp/stamp0501/stamp0501.png" width=200px alt="bf"/>
 
@@ -22,6 +22,7 @@
 ## リポジトリはこちら
 * [MoreMoreMusic-frontend-repo](https://github.com/Sekai-of-Code/MoreMoreMusic-frontend-repo)
 * [MoreMoreMusic-backend-repo](https://github.com/Sekai-of-Code/MoreMoreMusic-backend-repo)
+* [MoreMoreMusic-infra-repo](https://github.com/Sekai-of-Code/MoreMoreMusic-infra-repo)
 
 
 ## Commit Message 戦略
